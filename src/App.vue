@@ -2,6 +2,7 @@
 
 import AppHeader from './components/AppHeader.vue';
 import ListItem from './components/ListItem.vue';
+import TodoList from './components/TodoList.vue'; 
 
 </script>
 
@@ -9,7 +10,7 @@ import ListItem from './components/ListItem.vue';
 
   <AppHeader />
 
-  <ListItem />
+  <TodoList />
 
 
 </template>
